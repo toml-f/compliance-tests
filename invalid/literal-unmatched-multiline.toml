@@ -1,0 +1,4 @@
+str1 = '''
+runaway literal multiline string
+
+str2 = "Something else"
