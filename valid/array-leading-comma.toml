@@ -1,0 +1,5 @@
+array = [ 1  # comments are allowed
+        , 2
+        , 3
+        , 4
+        ]
